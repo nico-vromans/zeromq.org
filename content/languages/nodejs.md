@@ -4,8 +4,8 @@ weight: 4
 ---
 
 <table>
-  <tr><td>Github</td><td><a href="https://github.com/zeromq/zeromq.js/">https://github.com/zeromq/zeromq.js/</a></td></tr>
-  <tr><td>npm</td><td><a href="https://www.npmjs.com/package/zeromq">https://www.npmjs.com/package/zeromq</a></td></tr>
+  <tr><td>Github</td><td><a href="https://github.com/zeromq/zeromq.js/" target="_blank">https://github.com/zeromq/zeromq.js/</a></td></tr>
+  <tr><td>npm</td><td><a href="https://www.npmjs.com/package/zeromq" target="_blank">https://www.npmjs.com/package/zeromq</a></td></tr>
 </table>
 
 ## Installation

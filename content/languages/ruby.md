@@ -4,9 +4,9 @@ weight: 3
 ---
 
 <table>
-<tr><td>Github</td><td>https://github.com/zeromq/rbzmq</td></tr>
-<tr><td>gem</td><td>https://rubygems.org/gems/zmq</td></tr>
-<tr><td>Docs</td><td>http://zeromq.github.io/rbzmq/</td></tr>
+<tr><td>Github</td><td><a href="https://github.com/zeromq/rbzmq" target="_blank">https://github.com/zeromq/rbzmq</a></td></tr>
+<tr><td>gem</td><td><a href="https://rubygems.org/gems/zmq" target="_blank">https://rubygems.org/gems/zmq</a></td></tr>
+<tr><td>Docs</td><td><a href="http://zeromq.github.io/rbzmq/" target="_blank">http://zeromq.github.io/rbzmq/</a></td></tr>
 </table>
 
 ## Installation

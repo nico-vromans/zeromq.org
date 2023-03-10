@@ -9,8 +9,8 @@ Two options are available for Go developers, [goczmq](https://github.com/zeromq/
 ## goczmq
 
 <table>
-<tr><td>Github</td><td>https://github.com/zeromq/goczmq</td></tr>
-<tr><td>Docs</td><td>https://godoc.org/github.com/zeromq/goczmq</td></tr>
+<tr><td>Github</td><td><a href="https://github.com/zeromq/goczmq" target="_blank">https://github.com/zeromq/goczmq</a></td></tr>
+<tr><td>Docs</td><td><a href="https://godoc.org/github.com/zeromq/goczmq" target="_blank">https://godoc.org/github.com/zeromq/goczmq</a></td></tr>
 </table>
 
 ### Install

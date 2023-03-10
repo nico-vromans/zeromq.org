@@ -4,8 +4,8 @@ weight: 4
 ---
 
 <table>
-<tr><td>Github</td><td>https://github.com/zeromq/perlzmq</td></tr>
-<tr><td>cpan</td><td>https://metacpan.org/pod/ZMQ::FFI</td></tr>
+<tr><td>Github</td><td><a href="https://github.com/zeromq/perlzmq" target="_blank">https://github.com/zeromq/perlzmq</a></td></tr>
+<tr><td>cpan</td><td><a href="https://metacpan.org/pod/ZMQ::FFI" target="_blank">https://metacpan.org/pod/ZMQ::FFI</a></td></tr>
 </table>
 
 ## Install

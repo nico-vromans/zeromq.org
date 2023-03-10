@@ -10,8 +10,8 @@ Two alternatives are available for F# developers, `fszmq` and `FsNetMQ`. `fszmq`
 ## FsNetMQ
 
 <table>
-<tr><td>Github</td><td>https://github.com/NetMQ/FsNetMQ</td></tr>
-<tr><td>Nuget</td><td>https://www.nuget.org/packages/FsNetMQ/</td></tr>
+<tr><td>Github</td><td><a href="https://github.com/NetMQ/FsNetMQ" target="_blank">https://github.com/NetMQ/FsNetMQ</a></td></tr>
+<tr><td>Nuget</td><td><a href="https://www.nuget.org/packages/FsNetMQ/" target="_blank">https://www.nuget.org/packages/FsNetMQ/</a></td></tr>
 </table>
 
 ### Example

@@ -4,9 +4,9 @@ weight: 4
 ---
 
 <table>
-<tr><td>Github</td><td>https://github.com/enwi/dartzmq</td></tr>
-<tr><td>pub.dev</td><td>https://pub.dev/packages/dartzmq</td></tr>
-<tr><td>Examples</td><td>https://github.com/enwi/dartzmq/tree/main/example</td></tr>
+<tr><td>Github</td><td><a href="https://github.com/enwi/dartzmq" target="_blank">https://github.com/enwi/dartzmq</a></td></tr>
+<tr><td>pub.dev</td><td><a href="https://pub.dev/packages/dartzmq" target="_blank">https://pub.dev/packages/dartzmq</a></td></tr>
+<tr><td>Examples</td><td><a href="https://github.com/enwi/dartzmq/tree/main/example" target="_blank">https://github.com/enwi/dartzmq/tree/main/example</a></td></tr>
 </table>
 
 ## Installation

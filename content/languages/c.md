@@ -17,7 +17,7 @@ The recommended binding for C developers is CZMQ, which provides a high-level AP
 
 </td></tr>
 <tr><td>Docs</td><td>
-    
+
 [http://czmq.zeromq.org/](http://czmq.zeromq.org/)
 
 </td></tr>

@@ -4,9 +4,9 @@ weight: 4
 ---
 
 <table>
-<tr><td>Github</td><td>https://github.com/erickt/rust-zmq</td></tr>
-<tr><td>Crate</td><td>https://docs.rs/crate/zmq</td></tr>
-<tr><td>Examples</td><td>https://github.com/erickt/rust-zmq/tree/master/examples</td></tr>
+<tr><td>Github</td><td><a href="https://github.com/erickt/rust-zmq" target="_blank">https://github.com/erickt/rust-zmq</a></td></tr>
+<tr><td>Crate</td><td><a href="https://docs.rs/crate/zmq" target="_blank">https://docs.rs/crate/zmq</a></td></tr>
+<tr><td>Examples</td><td><a href="https://github.com/erickt/rust-zmq/tree/master/examples" target="_blank">https://github.com/erickt/rust-zmq/tree/master/examples</a></td></tr>
 </table>
 
 ## Installation

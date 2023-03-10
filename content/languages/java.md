@@ -10,8 +10,8 @@ implementation, JZMQ a Java binding for libzmq, JCZMQ a Java binding for czmq
 ## JeroMQ
 
 <table>
-<tr><td>Github</td><td>https://github.com/zeromq/jeromq</td></tr>
-<tr><td>Docs</td><td>https://github.com/zeromq/jeromq/blob/master/README.md</td></tr>
+<tr><td>Github</td><td><a href="https://github.com/zeromq/jeromq" target="_blank">https://github.com/zeromq/jeromq</a></td></tr>
+<tr><td>Docs</td><td><a href="https://github.com/zeromq/jeromq/blob/master/README.md" target="_blank">https://github.com/zeromq/jeromq/blob/master/README.md</a></td></tr>
 </table>
 
 ### Example
